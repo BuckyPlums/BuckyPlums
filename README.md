@@ -23,6 +23,7 @@ Hi there, my name is Darya, I'm manual QA-engineer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YouTrack_Icon.png/1200px-YouTrack_Icon.png"></code>
 
 🚧 **My nearest tasks:**
 <!-- TODO-IST:START -->
