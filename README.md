@@ -11,7 +11,7 @@
 
 <br />
 
-Hi there, my name is Darya, I'm junior QA-engineer. 
+Hi there, my name is Darya, I'm manual QA-engineer. 
 
 <br />
 
@@ -25,7 +25,8 @@ Hi there, my name is Darya, I'm junior QA-engineer.
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] To create first project on Github
+* [ ] Test-case sample
+* [ ] Check-list sample
+* [ ] Postman collections      
 <!-- TODO-IST:END -->
