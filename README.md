@@ -15,8 +15,6 @@ Hi there, my name is Darya, I'm manual QA-engineer.
 
 <br />
 
-<img align="right" src="https://railsware.com/blog/wp-content/uploads/2018/05/dou-qa.jpg" width="600" height="300" />
-  
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
