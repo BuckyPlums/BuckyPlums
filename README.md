@@ -27,10 +27,10 @@ Hi there, my name is Darya, I'm manual QA-engineer.
 <code><img height="20" src="https://pbs.twimg.com/profile_images/1083368648427876353/rDzk-i_U_400x400.jpg"></code>
 <code><img height="20" src="https://toppng.com/uploads/preview/oogle-chrome-developer-tools-google-developers-icon-11563029118otjotftm9o.png"></code>
 
-🚧 **My nearest tasks:**
+#🚧 **My nearest tasks:**
 <!-- TODO-IST:START -->
-* [x] To create first project on Github
+* [x] Find 
 * [ ] Test-case sample
 * [ ] Check-list sample
 * [ ] Postman collections      
-<!-- TODO-IST:END -->
+<!-- TODO-IST:END -->#
