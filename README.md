@@ -11,7 +11,7 @@
 
 <br />
 
-Hi there, my name is Darya, I'm manual QA-engineer. 
+Hi there, my name is Darya, I'm QA-engineer. 
 
 <br />
 
